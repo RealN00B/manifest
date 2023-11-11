@@ -76,6 +76,7 @@
   <!-- Frameworks repos -->
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
+  <remove-project name="platform/frameworks/libs/systemui" />
 
   <!-- General repos -->
   <remove-project name="platform/build" />
